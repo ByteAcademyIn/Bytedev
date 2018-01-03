@@ -8,7 +8,7 @@ Bytedev Repository contains all the relevant information required for Byte Stude
 
 Phase 0 - Pre Coursework on http://bytedev.co
 
-Bytedev Modules to be completed based on Specific Course Track
+Bytedev Modules to be completed based on Specific Course Track. 100% completion of bytedev modules before the course begins.
 
 # Full Stack Web Development in Python            
     1. Python
